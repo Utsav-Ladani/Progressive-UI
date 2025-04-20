@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.container__title {
+    margin-bottom: 20px;
+}
+
+.posts {
+    list-style: none;
+}
+
+.post {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.post__title {
+    color: #333;
+    margin-bottom: 4px;
+}
+
+.post__content {
+    color: #666;
+    margin-bottom: 10px;
+}
+
+.post__likes {
+    color: #fc4f4f;
+}
+
+.post__reposts {
+    color: #774ffc;
+}
