@@ -6,6 +6,10 @@ Incremental data fetching using Server-Sent Events (SSE) for progressive UI load
 
 Incremental data fetching is a technique that allows to fetch data incrementally, rather than fetching all the data at once. This is useful for improving the user experience, especially for large datasets.
 
+## Demo
+
+https://github.com/user-attachments/assets/f8a3506b-de31-4c89-ad6a-0a12e0f3304f
+
 ## Benefits
 
 - **Faster Initial Load**: Content appears immediately without waiting for complete data
